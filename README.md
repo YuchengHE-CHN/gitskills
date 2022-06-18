@@ -1,5 +1,5 @@
 # Git skills
-dev branch
+branch
 
 add a line
 
